@@ -1,0 +1,33 @@
+header {
+  background-color: black;
+}
+.logo {
+  width: 200px;
+  padding-bottom: 20px;
+  margin-left: 50px;
+}
+.itens {
+  width: 600px;
+  justify-content: space-around;
+  display: flex;
+  align-items: center;
+}
+
+.contenedor {
+  display: flex;
+}
+nav {
+  display: flex;
+  justify-content: space-between;
+}
+
+a {
+  color: white;
+  font-size: 20px;
+  text-decoration: none;
+}
+.baile {
+  background-color: rgba(82, 156, 241, 0.9);
+}
+.chica {
+}
